@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+gem 'omniauth', '~> 1.2.2'
+gem 'omniauth-google-oauth2'
+gem 'json'
